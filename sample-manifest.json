@@ -1,0 +1,12 @@
+{
+  "export_job_id": "fe29825a-5b1b-4dc8-a0b2-9a09c3ba928e",
+  "id_short": 173166,
+  "published_at": "2026-04-10T19:24:22Z",
+  "repo_name": "the-hhi-monopoly-index-for-idaho-us-sample-173166",
+  "sample_asset_name": "beamstation_173166_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/173166/beamstation_173166_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_records": 14,
+  "sample_sha256": "ae999c38c478aa27812de56f1d439751fbefeef884261807d170a0fd2f2e8e71",
+  "sample_size_bytes": 65637,
+  "total_records": 145
+}
