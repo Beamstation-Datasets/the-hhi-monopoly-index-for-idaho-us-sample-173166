@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Idaho, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `173166` |
 | Location | Idaho |
 | Category | Restaurants |
-| Full dataset size | 91 records |
-| Free sample size | 9 records (9.89%) |
-| Last export | 2026-04-22T03:26:32.700545+00:00 |
+| Full dataset size | 139 records |
+| Free sample size | 13 records (9.35%) |
+| Last export | 2026-04-29T06:12:25.627488+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-idaho-us-sample-173166/releases/download/sample-latest/beamstation_173166_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
